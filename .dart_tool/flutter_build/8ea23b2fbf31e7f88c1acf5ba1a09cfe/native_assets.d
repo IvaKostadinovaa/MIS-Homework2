@@ -1,1 +1,0 @@
- C:\\Users\\ivako\\AndroidStudioProjects\\cookie_recipes_project\\.dart_tool\\flutter_build\\8ea23b2fbf31e7f88c1acf5ba1a09cfe\\native_assets.yaml: 
